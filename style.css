@@ -45,7 +45,7 @@ h5{
     text-align: center;
 }
 
-form{
+.botao{
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
